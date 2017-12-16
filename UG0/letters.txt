@@ -1,0 +1,33 @@
+a
+b
+g
+d
+h
+w
+z
+ḥ h*
+ṭ t*
+y
+k
+l
+m
+n
+s
+o c
+p
+ṣ s*
+q
+r
+š s^
+t
+ṯ t_
+ẖ h_
+ḏ d_
+ḍ 
+ẓ z*
+ġ g/
+i
+u
+ś s/
+
+current speed has been 2 seconds per char
